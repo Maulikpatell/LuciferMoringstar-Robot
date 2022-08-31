@@ -1,11 +1,12 @@
-Pyrogram
+pyrogram>=2.0.30
 Tgcrypto
-Pymongo[srv]
-Motor
-Marshmallow
-Umongo
-Requests
+pymongo[srv]==3.12.3
+motor==2.5.1
+marshmallow==3.14.1
+umongo==3.0.1
+requests
 Aiofiles
 imdbpy==2021.4.18
 googletrans==3.1.0a0 # Google Translater 
 gTTS # Google Translater
+bs4
